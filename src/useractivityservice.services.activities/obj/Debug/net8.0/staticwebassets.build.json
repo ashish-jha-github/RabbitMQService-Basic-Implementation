@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UhzgNkgr9yWT74UeW0pLAjawt/7Aqc8uydRjGlTpjsw=",
+  "Source": "useractivityservice.services.activities",
+  "BasePath": "_content/useractivityservice.services.activities",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

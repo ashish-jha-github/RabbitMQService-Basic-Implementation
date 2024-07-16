@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XeTEAt2xNA2J/2j5fmQBEnF3MPpZq3GFqs43rIQt5ZA=",
+  "Source": "useractivityservice.api",
+  "BasePath": "_content/useractivityservice.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

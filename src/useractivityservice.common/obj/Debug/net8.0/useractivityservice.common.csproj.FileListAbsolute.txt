@@ -1,0 +1,11 @@
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\bin\Debug\net8.0\useractivityservice.common.deps.json
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\bin\Debug\net8.0\useractivityservice.common.dll
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\bin\Debug\net8.0\useractivityservice.common.pdb
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\useractivityservice.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\useractivityservice.common.AssemblyInfoInputs.cache
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\useractivityservice.common.AssemblyInfo.cs
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\useractivityservice.common.csproj.CoreCompileInputs.cache
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\useractivityservice.common.dll
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\refint\useractivityservice.common.dll
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\useractivityservice.common.pdb
+C:\Ashish Jha\Projects\R&D\DotNet\Services\useractivityservice\src\useractivityservice.common\obj\Debug\net8.0\ref\useractivityservice.common.dll

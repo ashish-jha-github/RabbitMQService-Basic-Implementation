@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\useractivityservice.services.activities.props" />
+</Project>

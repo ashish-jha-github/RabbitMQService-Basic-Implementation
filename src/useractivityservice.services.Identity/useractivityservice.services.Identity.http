@@ -1,0 +1,6 @@
+@useractivityservice.services.Identity_HostAddress = http://localhost:5017
+
+GET {{useractivityservice.services.Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
